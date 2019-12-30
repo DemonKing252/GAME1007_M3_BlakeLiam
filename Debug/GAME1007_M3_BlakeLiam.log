@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\owner\source\repos\game1007_m3_blakeliam\game.cpp(78): warning C4715: 'Game::Init': not all control paths return a value
+  GAME1007_M3_BlakeLiam.vcxproj -> C:\Users\Owner\source\repos\GAME1007_M3_BlakeLiam\Debug\GAME1007_M3_BlakeLiam.exe
